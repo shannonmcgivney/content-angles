@@ -53,6 +53,6 @@ Tell Claude who your audience is and what you offer, or keep an about page or of
 
 ## Credit
 
-Adapted from the "Fab 5" content prompts in Caitlin Bacher's *Sales Every Day™*, rewritten and extended by McGivney Media. The belief thread is our own take on the "storytelling wheel" idea from a Jun Yuh reel; the text is original.
+The seven angles are common content-writing patterns, written up here by McGivney Media. The belief thread is our own take on the "storytelling wheel" idea from a Jun Yuh reel; the text is original.
 
 By McGivney Media.

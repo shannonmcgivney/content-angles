@@ -5,7 +5,7 @@ description: Write social posts, short-video scripts and emails from seven reusa
 
 # Content Angles
 
-A small set of reusable story shapes so you can publish useful content every day without starting from a blank page. Each angle teaches one honest idea, earns trust, and points to a single next step. Adapted from the "Fab 5" prompts in Caitlin Bacher's Sales Every Day™, rewritten and extended.
+A small set of reusable story shapes so you can publish useful content every day without starting from a blank page. Each angle teaches one honest idea, earns trust, and points to a single next step.
 
 ## 1. Get the context first
 
